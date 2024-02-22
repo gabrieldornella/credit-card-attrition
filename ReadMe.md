@@ -48,8 +48,10 @@ This report presents an analysis of customer attrition within a dataset comprisi
 - Total_Trans_Amt: There is also a negative correlation (-0.17) with the total amount of transactions, supporting the idea that higher credit card usage is associated with lower attrition rates.
 - Total_Amt_Chng_Q4_Q1: The negative correlation (-0.16) suggests that customers whose transaction amounts have decreased from Q4 to Q1 are more prone to attrition.
 - Credit_Limit: The negative correlation (-0.02) is quite weak, indicating there might not be a strong direct relationship between the credit limit assigned to the customer and their likelihood to attrit.
-- The strongest correlations with attrition are related to inactivity and engagement. Customers who are less active and engage less with the company through transactions or revolving balances are more likely to attrit. Conversely, customers who have a higher number of transactions and a higher utilization ratio are less likely to leave.
-- These correlations can help identify at-risk customers and inform strategies to improve customer retention, such as encouraging increased usage of credit card services, maintaining revolving balances, and addressing issues that lead to increased customer contacts.
+
+The strongest correlations with attrition are related to inactivity and engagement. Customers who are less active and engage less with the company through transactions or revolving balances are more likely to attrit. Conversely, customers who have a higher number of transactions and a higher utilization ratio are less likely to leave.
+
+These correlations can help identify at-risk customers and inform strategies to improve customer retention, such as encouraging increased usage of credit card services, maintaining revolving balances, and addressing issues that lead to increased customer contacts.
 
 ### Summary
 In synthesizing the insights from both categorical and correlation analyses, it's possible to conclude that the following factors have significant relationships with customer attrition rates:
